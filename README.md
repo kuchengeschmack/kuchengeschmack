@@ -1,8 +1,1 @@
-<a href="https://gitmoji.dev">
-  <img
-    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
-    alt="Gitmoji"
-  />
-</a>
-
-M'enfin !
+> _"Be courageous. Be you. Be proud of you. Because you can be do what we want to do."_
